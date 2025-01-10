@@ -1,0 +1,9 @@
+Class ExDemo{
+
+public void Vehicle(){
+system.out.println("Anusha");
+}
+Public static void main (strings args{}){
+ExDemo Obj= new ExDemo();
+System.out.println(obj.Vehicle);
+}
